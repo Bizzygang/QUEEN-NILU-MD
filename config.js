@@ -12,20 +12,19 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 
-// PUT YOUR SESSION ID HERE  ##Required 
+// QueenNilu;;;N3JgHb6T#3NW04z4w0MsL4H8JkkEO1Ov0-KMQxG5aPctx9m7jseQPUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
-
+global.SESSION_ID = '' // QueenNilu;;;N3JgHb6T#3NW04z4w0MsL4H8JkkEO1Ov0-KMQxG5aPctx9m7j
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = ''postgres://bornfire6_user:Pv78ciak4z3DF8LJGVvwUVsDzBvv7xt0@dpg-ckomq3oujous73flu1d0-a/bornfire6
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '255753038449
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'bornfire'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -36,12 +35,12 @@ global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 global.READ_MESSAGE = "true" 
 
 global.OPENAI_API_KEY = "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" 
-
+s
 /*
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'bornfire
 
 global.FOOTER = 'Queen Nilu 2023'
 
