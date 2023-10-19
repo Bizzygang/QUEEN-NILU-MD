@@ -16,8 +16,8 @@ function convertToBool(text, fault = 'true') {
 
 global.SESSION_ID = '' // QueenNilu;;;N3JgHb6T#3NW04z4w0MsL4H8JkkEO1Ov0-KMQxG5aPctx9m7j
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''postgres://bornfire6_user:Pv78ciak4z3DF8LJGVvwUVsDzBvv7xt0@dpg-ckomq3oujous73flu1d0-a/bornfire6
-
+global.POSTGRESQL_URL = ''postgres://
+PGPASSWORD=Pv78ciak4z3DF8LJGVvwUVsDzBvv7xt0 psql -h dpg-ckomq3oujous73flu1d0-a.ohio-postgres.render.com -U bornfire6_user bornfire6
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
